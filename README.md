@@ -30,7 +30,7 @@ Disclaimer : This repository is merely a mix of 2 well developed repositories (W
 4. Configure the docker-compose for your specific use case (WG_HOST, Password)
 5. Run the docker compose using ```docker-compose up -d```
 6. Visit HOST_IP:3000 and finish configuring Adguard Home.
-7. Wg_Easy should be accessible at HOST_IP:51821, access it and start creating users.
+7. Wg_Easy should be accessible at HOST_IP:51821, access it and start creating users (you might need to setup port forwarding)
 8. Connect to your VPN and have fun :).
 
 ## Guidelines
