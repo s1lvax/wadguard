@@ -14,7 +14,8 @@ services:
       # Change this to your host's public address
       - WG_HOST=172.104.145.36
 
-      # Optional:
+      # ⚠️ Required:
+      # Change password
       - PASSWORD=foobar123
       # - WG_PORT=51820
       - WG_DEFAULT_DNS=10.2.0.100
