@@ -12,7 +12,10 @@ Disclaimer : This repository is merely a mix of 2 well developped repositories (
 * Download a client's configuration file.
 * Statistics for which clients are connected.
 * Tx/Rx charts for each connected client.
-* Adguard Home Server (Adblocking, DNS Filtering, Parental Control, etc..)
+* Ad Blocker
+* DNS Filtering
+* Parental Control
+* ...all Adguard features
 
 ## Requirements
 
