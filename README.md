@@ -1,7 +1,7 @@
 # Wadguard (Wg-Easy + Adguard Home)
 ## The easiest way to run Wireguard VPN/UI + Adguard Home AdBlocker
 
-![alt text](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.wireguard.com%2F&psig=AOvVaw23vh1FTd29omtU_oe813ds&ust=1677568575479000&source=images&cd=vfe&ved=0CA0QjRxqFwoTCICZyYqUtf0CFQAAAAAdAAAAABAi)
+![alt text](https://upload.wikimedia.org/wikipedia/commons/9/98/Logo_of_WireGuard.svg)
 
 Disclaimer : This repository is merely a mix of 2 well developed repositories (Wg-Easy and AdguardHome). I do not claim credit for those repos, all I did was put them together in an accessible way.
 
